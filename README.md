@@ -1,7 +1,7 @@
 ### Hello World, I'm Amirah 👋
 
 - 👩‍🎓 Graduated from Shimane University, Japan 🇯🇵
-- 📱 I’m currently diving deep into web programming and learning more on React!
+- 📱 I’m currently diving deep into web programming and learning more on Angular!
 - 🍩 I am also interested in 3D. A beginner in blender3d.
 - 🤍 Things I love include cats 🐈, books 📚, plants 🪴, snowboarding 🏂, travelling ✈️, and learning new things ✏️!
 
